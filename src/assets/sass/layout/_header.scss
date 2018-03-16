@@ -1,0 +1,7 @@
+.app-header {
+  background-image: linear-gradient(to right, $color-primary-light, $color-primary);
+  width: 100vw;
+  height: $header-height;
+  font-size: 2rem;
+  color: $color-white;
+}
